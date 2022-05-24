@@ -1,0 +1,8 @@
+var summation = function (num) {
+  let solution = 0;
+  for(var x = 1;x <= num;x++)
+    {
+      solution += x;
+      }
+  return solution
+}
