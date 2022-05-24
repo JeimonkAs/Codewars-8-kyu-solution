@@ -1,0 +1,5 @@
+squareSum = (numbers) => {
+  
+  return numbers.reduce((a,b) => (b*b) + a,0)
+  
+}
