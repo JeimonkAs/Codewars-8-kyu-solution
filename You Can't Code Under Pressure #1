@@ -1,0 +1,1 @@
+doubleInteger = (i) => {return Math.pow(i,2)}
