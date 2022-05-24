@@ -1,0 +1,4 @@
+const zeroFuel = (dTP, mpg, fL) => {
+  if(dTP <= mpg* fL) return true
+  return false
+};
