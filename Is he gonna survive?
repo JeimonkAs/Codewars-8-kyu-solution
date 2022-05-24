@@ -1,0 +1,9 @@
+hero = (bullets, dragons) => {
+
+  let dk = bullets / dragons
+  
+  if(dk < 2) return false
+  
+  return true
+ 
+}
