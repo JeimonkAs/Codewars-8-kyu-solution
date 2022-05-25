@@ -1,0 +1,3 @@
+function goals (l, c, g) {
+  return l+c+g
+}
