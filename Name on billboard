@@ -1,0 +1,9 @@
+function billboard(name, price = 30){
+
+  let l = 0;
+  for(let x = 1 ;x <= name.length;x++)
+      {
+        l += price
+      }
+  return l
+} 
