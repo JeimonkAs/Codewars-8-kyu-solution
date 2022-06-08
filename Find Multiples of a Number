@@ -1,0 +1,7 @@
+function findMultiples(i, l) {
+  const lol = []
+  for ( let x = i; x <= l; x+= i) {
+    lol.push(x)
+}
+return lol
+}
