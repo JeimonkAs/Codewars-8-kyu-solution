@@ -1,0 +1,7 @@
+function century(year) {
+  // Finish this :)
+  
+  if(year%100 === 0) return year/100;
+  if(year%100 !== 0) return Math.ceil(year/100)
+    
+}
